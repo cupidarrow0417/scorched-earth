@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/96487/134137312-dc63fd89-c410-4269-997
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jamesmoriarty/scorched. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Cori1109/scorched. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
